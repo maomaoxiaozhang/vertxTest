@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Built-By: shouchang.zgq
+Created-By: Apache Maven 3.5.4
+Build-Jdk: 1.8.0_66
+Main-Class: io.example.Main
+
